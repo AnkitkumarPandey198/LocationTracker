@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LocationTracker</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="stop_tracking">Stop Tracking</string>
+    <string name="Coordinates_Activity">Coordinates_Activity</string>
+    <string name="get_location">Get Location</string>
+    <string name="result">Result</string>
+    <string name="get_my_location">Get My Location</string>
+    <string name="results">Results</string>
+    <string name="start_tracking1">Start Tracking</string>
+    <string name="latitude">Latitude:</string>
+    <string name="latitude_value">Latitude_value</string>
+    <string name="longitude">Longitude:</string>
+    <string name="longitude_value">Longitude_value</string>
+    <string name="address">Address:</string>
+    <string name="address_value">Address_value</string>
+</resources>
